@@ -1,0 +1,37 @@
+.bd {
+  display: flex;
+  background: #e3e6ef;
+  border-radius: 20px;
+  width: fit-content;
+  padding: 4px;
+  font-family: sans-serif;
+}
+.bt {
+  padding: 6px 20px;
+  border-radius: 16px;
+  cursor: pointer;
+  color: #222;
+  transition: 0.2s;
+}
+.bt.ac {
+  background: white;
+  color: #0055ff;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+.gr{
+    color: #bfc0c0;
+}
+.oraora {
+    border: 1px solid rgb(190, 190, 190);
+    font-size: 30px;
+    border-left: white;
+    border-right: white;
+    border-top: white;
+}
+.rak { 
+    background-color: white;
+    color: black;
+}
+.ss { 
+    background-color: #c0c0c0;
+ }
